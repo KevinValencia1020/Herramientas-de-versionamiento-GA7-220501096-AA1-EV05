@@ -7,7 +7,7 @@ Este repositorio fue creado para la evidencia GA7-220501096-AA1-EV05 (GIT instal
 - URL: se configura durante la ejecución del script.
 
 ## Rama principal
-- Rama: $Branch
+- Rama: main
 
 ## Comandos clave utilizados
 - git init -b main
